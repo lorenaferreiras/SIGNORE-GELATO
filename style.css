@@ -194,8 +194,6 @@ form legend {
 }
 
 @media screen and (max-width: 480px) {
-	main, .caixa, .principal, .beneficios, .mapa, .video {
+	main, .caixa, .principal, .beneficios, .mapa, .img {
 		width: auto;
-		img {
-			display: inline-block;
 	}
