@@ -13,7 +13,6 @@ header {
 img {
   left: 10px;
   width: 220px;
-display: inline-block;
 }
 
 .caixa {
@@ -197,4 +196,6 @@ form legend {
 @media screen and (max-width: 480px) {
 	main, .caixa, .principal, .beneficios, .mapa, .video {
 		width: auto;
+		img {
+			display: inline-block;
 	}
